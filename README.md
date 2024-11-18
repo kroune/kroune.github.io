@@ -1,4 +1,4 @@
-# My best projects
+# My projects
 
 ## [nine-mens-morris-lib](https://github.com/kroune/nine-mens-morris-lib)
 
@@ -12,10 +12,12 @@ that allows you to
 * Play with friends on your device
 * Play against bot
 * Play online against real people
+* Play online
+* View and fight for the place in the leaderboard
 
 ## [nine-mens-morris-server](https://github.com/kroune/nine-mens-morris-server)
 
-RESTful backend for android app, which uses ktor and exposed
+backend for the app, uses ktor and exposed
 
 ## [nine-mens-morris-app-kmp](https://github.com/kroune/nine-mens-morris-app-kmp)
 
